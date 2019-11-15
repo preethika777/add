@@ -1,0 +1,7 @@
+def addition():
+      x=input("enter a no.")
+      y=input("enter another no.")
+      z=x+y
+      return(z)
+
+      
